@@ -8,6 +8,6 @@
 
 ## Connect with me
 
-[Github](https://github.com/DGKSK8LIFE)
-[Linkedin](https://www.linkedin.com/in/tarek-ali-b59a0a1a8/)
-[Discord](DGK#5762)
+- [Github](https://github.com/DGKSK8LIFE)
+- [Linkedin](https://www.linkedin.com/in/tarek-ali-b59a0a1a8/)
+- [Discord](DGK#5762)
