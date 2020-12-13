@@ -11,19 +11,17 @@
 - [Github](https://github.com/DGKSK8LIFE)
 - [Linkedin](https://www.linkedin.com/in/tarek-ali-b59a0a1a8/)
 - [Discord](DGK#5762)
-
-<br />
+- [Email](tarekali15@outlook.com)
 
 ## Languages and Tools
 
-[][Python]
-[][Flask]
-[][Go]
-[][Java]
-[][Javascript]
-[][HTML]
-[][CSS]
-[][SocketIO]
-[][Markdown]
-[][Linux]
-
+[][python]
+[][flask]
+[][go]
+[][java]
+[][javascript]
+[][html]
+[][css]
+[][socketio]
+[][markdown]
+[][linux]
