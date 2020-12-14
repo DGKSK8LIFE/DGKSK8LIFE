@@ -15,7 +15,7 @@
 
 ## Languages and Tools
 
-![python](https://simpleicons.org/icons/python.svg)
+[][python]
 [][flask]
 [][go]
 [][java]
