@@ -43,4 +43,4 @@
 <img align="left" alt="office365" width="26px" src="./icons/microsoftoffice.svg" />
 <img align="left" alt="creative cloud" width="26px" src="./icons/adobecreativecloud.svg" />
 <img align="left" alt="c" width="26px" src="./icons/c.svg" />
-<img align="left" alt="expo" width="26px" src="./icons/expo.svg" />
+<img align="left" alt="expo" width="26px" src="./icons/expo." />
