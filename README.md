@@ -38,7 +38,7 @@
 [<img align="left" alt="react" width="26px" src="./icons/react.svg" />]
 [<img align="left" alt="bootstrap" width="26px" src="./icons/bootstrap.svg" />]
 [<img align="left" alt="netlify" width="26px" src="./icons/netlify.svg" />]
-[<img align="left" alt="gcp" width="26px" src="./icons/googlecoud.svg" />]
+[<img align="left" alt="gcp" width="26px" src="./icons/googlecloud.svg" />]
 [<img align="left" alt="wordpress" width="26px" src="./icons/wordpress.svg" />]
 [<img align="left" alt="office365" width="26px" src="./icons/microsoftoffice.svg" />]
 [<img align="left" alt="creative cloud" width="26px" src="./icons/adobecreativecloud.svg" />]
