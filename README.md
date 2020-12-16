@@ -15,7 +15,7 @@
 
 ## Languages and Tools
 
-[][python]
+[<img align="left" alt="python" src="./icons/python.svg" />][python]
 [][flask]
 [][go]
 [][java]
