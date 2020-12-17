@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Tarek Ali - aka DGKSK8LIFE
 
+![Me](tarek.jpg)
+
 ## I'm a student, avid open source developer, and aspiring software engineer!
 
 - I'm currenty working on a myriad of projects! ✋
