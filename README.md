@@ -10,10 +10,10 @@
 
 ## Connect with me
 
-- [Github](https://github.com/DGKSK8LIFE)
-- [Linkedin](https://www.linkedin.com/in/tarek-ali-b59a0a1a8/)
-- [Discord](DGK#5762)
-- [Email](tarekali15@outlook.com)
+<img alt="github" src="./icons/github.svg" width="30px" href="https://github.com/DGKSK8LIFE">
+<img alt="linkedin" src="./icons/linkedin.svg" width="30px" href="https://www.linkedin.com/in/tarek-ali-b59a0a1a8/">
+<img alt="discord" src="./icons/discord.svg" width="30px" href="https://discord.com/users/DGK#5762">
+<img alt="email" src="./icons/microsoftoutlook.svg" width="30px href="tarekali15@outlook.com">
 
 ## Languages and Tools
 
