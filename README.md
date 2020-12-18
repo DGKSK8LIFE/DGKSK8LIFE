@@ -13,7 +13,7 @@
 <a href="https://github.com/DGKSK8LIFE"><img align="left" alt="github" src="./icons/github.svg" width="40px"/></a>
 <a href="https://linkedin.com/in/tarek-ali-b59a0a1a8"><img align="left" alt="linkedin" src="./icons/linkedin.svg" width="40px"/></a>
 <a href="DGK#5762"><img align="left" alt="discord" src="./icons/discord.svg" width="40px"/></a>
-<a href="tarekali15@outlook.com"><img align="left" alt="email" src="./icons/microsoftoutlook.svg" width="35px"/></a>
+<a href="mailto:tarekali15@outlook.com"><img align="left" alt="email" src="./icons/microsoftoutlook.svg" width="35px"/></a>
 
 <br />
 <br />
