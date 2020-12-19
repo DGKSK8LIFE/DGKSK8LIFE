@@ -29,7 +29,6 @@
 <img align="left" alt="html" width="26px" src="./icons/html5.svg" />
 <img align="left" alt="css" width="26px" src="./icons/css3.svg" />
 <img align="left" alt="socketio" width="26px" src="./icons/socket-dot-io.svg" />
-<img align="left" alt="markdown" width="26px" src="./icons/markdown.svg" />
 <img align="left" alt="linux" width="26px" src="./icons/linux.svg" />
 <img align="left" alt="mysql" width="26px" src="./icons/mysql.svg" />
 <img align="left" alt="sqlite" width="26px" src="./icons/sqlite.svg" />
@@ -45,7 +44,5 @@
 <img align="left" alt="netlify" width="26px" src="./icons/netlify.svg" />
 <img align="left" alt="gcp" width="26px" src="./icons/googlecloud.svg" />
 <img align="left" alt="wordpress" width="26px" src="./icons/wordpress.svg" />
-<img align="left" alt="office365" width="26px" src="./icons/microsoftoffice.svg" />
-<img align="left" alt="creative cloud" width="26px" src="./icons/adobecreativecloud.svg" />
 <img align="left" alt="c" width="26px" src="./icons/c.svg" />
 <img align="left" alt="expo" width="26px" src="./icons/expo.svg" />
