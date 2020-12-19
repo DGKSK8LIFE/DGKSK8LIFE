@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Tarek Ali - aka DGK
 
-<img src="tarek.jpg" alt="tarek" width="450">
+<div align="center">
+    <img src="tarek.jpg" alt="tarek" width="450">
+</div>
 
 ## I'm a student, avid open source developer, and aspiring software engineer!
 
