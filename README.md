@@ -22,7 +22,7 @@
 
 ## Languages and Tools
 
-<div line-height: "2rem">
+<div line-height: "1.5rem">
     <img align="left" alt="python" width="26px" src="./icons/python.svg" />
     <img align="left" alt="flask" width="26px" src="./icons/flask.svg" />
     <img align="left" alt="go" width="26px" src="./icons/go.svg" />
