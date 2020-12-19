@@ -49,4 +49,5 @@
     <img align="left" alt="wordpress" width="26px" src="./icons/wordpress.svg" />
     <img align="left" alt="c" width="26px" src="./icons/c.svg" />
     <img align="left" alt="expo" width="26px" src="./icons/expo.svg" />
+    <img align="left" alt="figma" width="26px" src="./icons/figma.svg" />
 </div>
