@@ -22,6 +22,7 @@
 
 ## Languages and Tools
 
+<div line-height: "3.5">
 <img align="left" alt="python" width="26px" src="./icons/python.svg" />
 <img align="left" alt="flask" width="26px" src="./icons/flask.svg" />
 <img align="left" alt="go" width="26px" src="./icons/go.svg" />
@@ -48,3 +49,4 @@
 <img align="left" alt="wordpress" width="26px" src="./icons/wordpress.svg" />
 <img align="left" alt="c" width="26px" src="./icons/c.svg" />
 <img align="left" alt="expo" width="26px" src="./icons/expo.svg" />
+</div>
