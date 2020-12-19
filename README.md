@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tarek Ali - aka DGKSK8LIFE
+# Hi there 👋, I'm Tarek Ali - aka DGK
 
 <img src="tarek.jpg" alt="tarek" width="450">
 
