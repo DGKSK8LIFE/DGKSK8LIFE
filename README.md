@@ -20,7 +20,12 @@
 <br />
 <br />
 
-## [Support me financially!](https://paypal.me/DGKSK8LIFE?locale.x=en_US)
+## Support me financially!
+
+<a href="https://paypal.me/DGKSK8LIFE?locale.x=en_US"><img align="left" alt="paypal" src="./icons/paypal.svg" width="40px" ></a>
+
+<br />
+<br />
 
 ## Languages and Tools
 
