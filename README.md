@@ -22,8 +22,6 @@
 
 ## [Support me financially!](https://paypal.me/DGKSK8LIFE?locale.x=en_US)
 
-<br />
-
 ## Languages and Tools
 
 <div line-height: "2rem">
