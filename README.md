@@ -1,11 +1,8 @@
-# Hi there 👋, I'm Tarek Ali - aka DGK
+# Hi there 👋, I'm Tarek Ali - aka DGK <img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif" height="50"/>
+
 
 <div align="center">
     <img src="tarek.jpg" alt="tarek" width="450">
-</div>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif"/>
 </div>
 
 ## I'm a student, avid open source developer, and aspiring software engineer!
