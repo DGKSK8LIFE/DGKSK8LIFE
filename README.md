@@ -4,6 +4,10 @@
     <img src="tarek.jpg" alt="tarek" width="450">
 </div>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif"/>
+</div>
+
 ## I'm a student, avid open source developer, and aspiring software engineer!
 
 - I'm currenty working on a myriad of projects! ✋
@@ -58,3 +62,4 @@
     <img align="left" alt="expo" width="26px" src="./icons/expo.svg" />
     <img align="left" alt="figma" width="26px" src="./icons/figma.svg" />
 </div>
+                                                                                                                                                        
