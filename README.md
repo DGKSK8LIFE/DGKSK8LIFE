@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="tarek.jpg" alt="tarek" width="450">
+    <img src="tarek.jpg" alt="tarek" width="350">
 </div>
 
 ## I'm a student, avid open source developer, and aspiring software engineer!
