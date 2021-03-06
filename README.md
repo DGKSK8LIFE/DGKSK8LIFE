@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tarek Ali - aka DGK <img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif" height="50"/>
+# Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="50"/>, I'm Tarek Ali - aka DGK 
 
 ## Connect with me
 
