@@ -1,10 +1,5 @@
 # Hi there 👋, I'm Tarek Ali - aka DGK <img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif" height="50"/>
 
-
-<div align="center">
-    <img src="tarek.jpg" alt="tarek" width="400">
-</div>
-
 ## Connect with me
 
 <a href="https://github.com/DGKSK8LIFE"><img align="left" alt="github" src="./icons/github.svg" width="40px"/></a>
