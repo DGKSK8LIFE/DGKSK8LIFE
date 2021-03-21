@@ -13,7 +13,7 @@
 
 ## Hire me
 
-<a href="https://www.upwork.com/freelancers/~018bbc7a7b4b62e915"><img align="left" alt="paypal" src="./icons/upwork.svg" width="40px" ></a>
+<a href="https://www.upwork.com/freelancers/~018bbc7a7b4b62e915"><img align="left" alt="upwork" src="./icons/upwork.svg" width="40px" ></a>
 
 <br />
 <br />
