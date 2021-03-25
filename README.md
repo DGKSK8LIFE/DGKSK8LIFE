@@ -18,7 +18,7 @@
 <br />
 <br />
 
-## Support me financially 🙏
+## Support me
 
 <a href="https://paypal.me/DGKSK8LIFE?locale.x=en_US"><img align="left" alt="paypal" src="./icons/paypal.svg" width="40px" ></a>
 
