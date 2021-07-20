@@ -8,6 +8,7 @@
 <a href="mailto:tarekali15@outlook.com"><img align="left" alt="email" src="./icons/microsoftoutlook.svg" width="40px"/></a>
 <a href="https://twitter.com/TarekAl65751694"><img align="left" alt="twitter" src="./icons/twitter.svg" width="40px">
 <a href="https://instagram.com/tarekali.dev/"><img align="left" alt="instagram" src="./icons/instagram.svg" width="40px"/></a>
+<a href="https://medium.com/@tarekali.dev"><img align="left" alt="medium" src="./icons/medium.svg" width="40px"></a>
 <br />
 <br />
 
