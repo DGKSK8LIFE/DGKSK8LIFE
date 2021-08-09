@@ -10,7 +10,7 @@
 <a href="https://instagram.com/tarekali.dev/"><img align="left" alt="instagram" src="./icons/instagram.svg" width="40px"/></a>
 <a href="https://medium.com/@tarekali.dev"><img align="left" alt="medium" src="./icons/medium.svg" width="40px"></a>
 <a href="https://dev.to/tarekali"><img align="left" alt="dev" src="./icons/dev.svg" width="40px"></a>
-<a href="https://https://www.youtube.com/channel/UCGpDdA3PFFqaMIJIT5vX57Q"><img align="left" alt="dev" src="./icons/youtube.svg" width="40px"></a>
+<a href="https://www.youtube.com/channel/UCGpDdA3PFFqaMIJIT5vX57Q"><img align="left" alt="dev" src="./icons/youtube.svg" width="40px"></a>
 <br />
 <br />
 
