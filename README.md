@@ -9,7 +9,7 @@
 <a href="https://twitter.com/TarekAl65751694"><img align="left" alt="twitter" src="./icons/twitter.svg" width="40px">
 <a href="https://dev.to/tarekali"><img align="left" alt="dev" src="./icons/dev.svg" width="40px"></a>
 <a href="https://www.youtube.com/channel/UCGpDdA3PFFqaMIJIT5vX57Q"><img align="left" alt="dev" src="./icons/youtube.svg" width="40px"></a>
-<a href="https://https://devpost.com/DGKSK8LIFE"><img align="left" alt="devpost" src="./icons/devpost.svg" width="40px"></a>
+<a href="https://devpost.com/DGKSK8LIFE"><img align="left" alt="devpost" src="./icons/devpost.svg" width="40px"></a>
 <br />
 <br />
 
