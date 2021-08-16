@@ -10,6 +10,7 @@
 <a href="https://medium.com/@tarekali.dev"><img align="left" alt="medium" src="./icons/medium.svg" width="40px"></a>
 <a href="https://dev.to/tarekali"><img align="left" alt="dev" src="./icons/dev.svg" width="40px"></a>
 <a href="https://www.youtube.com/channel/UCGpDdA3PFFqaMIJIT5vX57Q"><img align="left" alt="dev" src="./icons/youtube.svg" width="40px"></a>
+<a href="https://https://devpost.com/DGKSK8LIFE"><img align="left" alt="devpost" src="./icons/devpost.svg" width="40px"></a>
 <br />
 <br />
 
