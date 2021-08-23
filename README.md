@@ -1,6 +1,6 @@
 # **Tarek Ali**
 
-## Connect with me
+## **Connect**
 
 <a href="https://github.com/DGKSK8LIFE"><img align="left" alt="github" src="./icons/github.svg" width="40px"/></a>
 <a href="https://linkedin.com/in/tarek-ali-b59a0a1a8"><img align="left" alt="linkedin" src="./icons/linkedin.svg" width="40px"/></a>
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-## Support me
+## **Support Me**
 
 <a href="https://paypal.me/DGKSK8LIFE?locale.x=en_US"><img align="left" alt="paypal" src="./icons/paypal.svg" width="40px" ></a>
 <a href="https://etherscan.io/address/0x5a3572b5733673d25f69e71e0e38dbb826e53aa4"><img align="left" alt="eth wallet" src="./icons/ethereum.svg" width="40px" ></a>
